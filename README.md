@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 Configuration
 Google Gemini API Key:
-You need a Google Gemini API key. Replace "AIzaSyBh-gQTCd4NrtSeO534KM8FznaMdDwXI94" in your app.py file with your actual API key.
+You need a Google Gemini API key.
 
 genai.configure(api_key="YOUR_GEMINI_API_KEY")
 
